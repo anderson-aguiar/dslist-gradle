@@ -74,12 +74,12 @@ public class Game {
         this.genre = genre;
     }
 
-    public String getPlatform() {
+    public String getPlatforms() {
         return platforms;
     }
 
-    public void setPlatform(String platform) {
-        this.platforms = platform;
+    public void setPlatforms(String platforms) {
+        this.platforms = platforms;
     }
 
     public Double getScore() {
